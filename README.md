@@ -1,4 +1,4 @@
-# RHCE 랩 — 받는 사람용 README
+# RHCE lab — 받는 사람용 README
 
 ## 사전 요건
 - VirtualBox 7.x 설치: https://www.virtualbox.org/wiki/Downloads
